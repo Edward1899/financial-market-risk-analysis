@@ -28,7 +28,8 @@ The analysis uses Python and real market data (via yfinance) to explore:
 - High-growth stocks exhibit significantly higher volatility
 - Tech stocks are highly correlated, reducing diversification
 - Risk-adjusted metrics provide a more balanced comparison than raw returns
-- Portfolio diversification improves stability
+- Portfolio diversification improves stability, a less diversified portfolio might yield more but might lose more as well.
+  
 
 ## File
 
